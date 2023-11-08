@@ -4,7 +4,7 @@
 This repository contains the firmware for a line-following robot. It includes sensor integration for line tracking, motor control for movement, and a state machine for different phases of navigation.
 
 ### Sensor Integration
-- Utilizes line sensors (`LineSensor.h`) and encoders (`encoders.h`) for detecting the line and measuring wheel rotation.
+- Utilises line sensors (`LineSensor.h`) and encoders (`encoders.h`) for detecting the line and measuring wheel rotation.
 
 ### Motor Control
 - Controls the motors using the `motors.h` module, allowing for speed and direction adjustments.
