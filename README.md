@@ -41,6 +41,10 @@ A project for my Robotics Systems module where we were tasked with programming a
 
 - Encoders_SetUp.ino
 - LineFollower.ino
+- LineSensors.h
+- ReadMe.md
+- encoders.h
+- motors.h
 
 ## Robotics Fundamentals
 
