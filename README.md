@@ -56,5 +56,8 @@ Fundamental algorithms in MATLAB and concepts in robotics, including forward and
 - Parallel.m
 - Trajectories.m
 - Robotic_Fundamentals.pdf
+  
+
+![NAO](https://github.com/trow-land/Robotics/blob/main/NAO_Human_Robot_Interaction/images/20230328_110613.jpg)
 
 
