@@ -15,11 +15,10 @@ This project involves the NAO robot and its interaction with humans. The experim
 
 ### Contents
 
-- Main.pml
-- manifest.xml
-- README.md (Project-specific details)
-- [Translations](NAO_Human_Robot_Interaction/translations)
-- [Behavior Modules](NAO_Human_Robot_Interaction/behavior_1)
+- [NAO_Robot_Humanoid_PT_Instructor](https://github.com/trow-land/Robotics/tree/main/NAO_Human_Robot_Interaction/NAO_Robot_Humanoid_PT_Instructor)
+- [Exploring_Impact_of_Demonstration_in_Socially_Assistive Robots'_Exercise_Instruction.pdf](https://github.com/trow-land/Robotics/blob/main/NAO_Human_Robot_Interaction/Exploring_Impact_of_Demonstration_in_Socially_Assistive%20Robots'_Exercise_Instruction.pdf)
+- Images
+- README.md
 
 ## Pololu 3Pi Bump Sensors and Kinematic Error Mitigation
 
