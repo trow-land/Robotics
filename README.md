@@ -26,11 +26,11 @@ A suite of experiments and control system implementations aimed at reducing whee
 
 ### Contents
 
-- [Bump Sensors](Pololu3Pi_Bump_Sensors_To-Mitigate_Wheel_Slip_Kinematic_Error/bump_sensors)
-- [Bump Sensors with PID](Pololu3Pi_Bump_Sensors_To-Mitigate_Wheel_Slip_Kinematic_Error/bump_sensors_with_PID)
-- [Experiments](Pololu3Pi_Bump_Sensors_To-Mitigate_Wheel_Slip_Kinematic_Error/Experiments)
-- [Impact Detection Straight Line PID](Pololu3Pi_Bump_Sensors_To-Mitigate_Wheel_Slip_Kinematic_Error/Impact_Detection_Straight_Line_PID)
-- [Straight Line PID](Pololu3Pi_Bump_Sensors_To-Mitigate_Wheel_Slip_Kinematic_Error/Straight_Line_PID)
+- [Bump Sensors]([Pololu3Pi_Bump_Sensors_To-Mitigate_Wheel_Slip_Kinematic_Error/bump_sensors](https://github.com/trow-land/Robotics/tree/main/Pololu3Pi_Bump_Sensors_To-Mitigate_Wheel_Slip_Kinematic_Error/bump%20sensors))
+- [Bump Sensors with PID]([Pololu3Pi_Bump_Sensors_To-Mitigate_Wheel_Slip_Kinematic_Error/bump_sensors_with_PID](https://github.com/trow-land/Robotics/tree/main/Pololu3Pi_Bump_Sensors_To-Mitigate_Wheel_Slip_Kinematic_Error/bump%20sensors%20with%20PID))
+- [Experiments]([Pololu3Pi_Bump_Sensors_To-Mitigate_Wheel_Slip_Kinematic_Error/Experiments](https://github.com/trow-land/Robotics/tree/main/Pololu3Pi_Bump_Sensors_To-Mitigate_Wheel_Slip_Kinematic_Error/Experiments))
+- [Impact Detection Straight Line PID]([Pololu3Pi_Bump_Sensors_To-Mitigate_Wheel_Slip_Kinematic_Error/Impact_Detection_Straight_Line_PID](https://github.com/trow-land/Robotics/tree/main/Pololu3Pi_Bump_Sensors_To-Mitigate_Wheel_Slip_Kinematic_Error/Impact%20Detection%20Straight%20Line%20PID))
+- [Straight Line PID]([Pololu3Pi_Bump_Sensors_To-Mitigate_Wheel_Slip_Kinematic_Error/Straight_Line_PID](https://github.com/trow-land/Robotics/tree/main/Pololu3Pi_Bump_Sensors_To-Mitigate_Wheel_Slip_Kinematic_Error/Straight%20Line%20PID))
 
 ## Pololu 3Pi Line Follower
 
